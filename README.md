@@ -56,7 +56,7 @@ sales-dashboard/
 ## Requirements
 
 - Tableau Desktop
-- The datasets in the `data/` directory
+- The datasets in the `datasets/` directory
 
 ## Contributing
 
