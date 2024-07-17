@@ -65,4 +65,3 @@ Feel free to contribute to this project by creating issues or submitting pull re
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> origin/my-new-branch
