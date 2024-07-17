@@ -22,8 +22,14 @@ The project uses the following datasets:
 ### 1. Customer Dashboard
 - Provides insights into customer demographics, purchase behavior, and satisfaction levels.
 
+  <img width="600" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/d3635bdb-2b1c-4385-bd6e-83e85994c0cb">
+
+
 ### 2. Sales Dashboard
 - Displays key sales metrics, trends, and geographical distribution of sales.
+
+  <img width="600" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/143a692e-5e29-4d40-bee2-573f6992c3f3">
+
 
 ## Tableau Public Link
 
