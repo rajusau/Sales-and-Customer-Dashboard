@@ -33,7 +33,7 @@ You can view the dashboards online through the following link: [Sales and Custom
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone  git clone https://github.com/rajusau/Sales-and-Customer-Dashboard.git
+    git clone https://github.com/rajusau/Sales-and-Customer-Dashboard.git
     ```
 2. Open the Tableau workbook file (`.twb` or `.twbx`) in Tableau Desktop.
 
